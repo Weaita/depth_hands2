@@ -1,4 +1,4 @@
-import * as THREE from '../../../three.module.js';
+import * as THREE from '../../../jsm/controls/three.module.js';
 
 let camera, scene, renderer, group;
 
